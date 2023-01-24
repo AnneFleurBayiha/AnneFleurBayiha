@@ -4,7 +4,6 @@
 <h1 align="center">Hello there, I'm Anne Fleur 🙋🏾‍♀️</h1>
 <h3 align="center">A passionate full-stack web developer from Montreal, Canada 💻💖</h3>
 
-- Please check out some cool projects I worked on 🚀🤘🏾 **Trees for a forest 🌲**
 
 - 🌱 I’m currently learning **React**
 
